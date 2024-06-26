@@ -1,0 +1,11 @@
+.right-box-name {
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mini-right-box-name {
+  display: flex;
+  align-items: center;
+}
